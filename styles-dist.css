@@ -1,0 +1,26 @@
+/* selector de etiqueta | PARA DAR ESTILOS GENERALES*/
+
+p{
+    color:aqua;
+}
+
+
+/*selectores de clase */
+.title{
+    
+}
+.text{
+    color: aquamarine;
+}
+/*selectores de ID | Se utilizan para acceder al dom y para anclas*/
+
+/* selectores de atributo
+seleccionar los elementos que tienen ese atributo y ese valor.
+
+
+*/
+h1~h2 {
+color:red;
+}
+
+
